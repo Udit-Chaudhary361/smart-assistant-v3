@@ -1,0 +1,23 @@
+{
+    "name": "rohit",
+    "notes": [
+        "Hello",
+        "World",
+        "How",
+        "Hello"
+    ],
+    "tasks": [
+        {
+            "task": "Learn Python",
+            "completed": false
+        },
+        {
+            "task": "Build API Project",
+            "completed": true
+        },
+        {
+            "task": "Hello",
+            "completed": false
+        }
+    ]
+}
