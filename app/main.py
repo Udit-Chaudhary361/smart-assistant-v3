@@ -1,5 +1,5 @@
-from packages.assistant import Assistant
-from packages.joke_tool import get_joke
+from assistant import Assistant
+from tools.joke_tool import get_joke
 
 assistant = Assistant()
 while True:

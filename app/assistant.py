@@ -1,5 +1,5 @@
-from packages.storage import load_data , save_data
-from packages.logger import logger
+from storage import load_data , save_data
+from logger import logger
 
 class Assistant:
     def set_name(self ,name):
